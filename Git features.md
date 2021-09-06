@@ -1,1 +1,6 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+# Git features
+- Code is backed up to a remote location.
+- It takes a piece of cake to revert your changes to any previous state.
+- It lets you see how changes affected the project as a whole.
+- It’s free.
+
