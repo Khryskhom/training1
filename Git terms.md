@@ -7,4 +7,4 @@ Index is an environment, on your PC, that you publish your changes to piecemeal.
 Local repository is a .git hidden folder inside workspace. Initialized on the stage of project creation.
 - **Online repository**  
 Online repository is a space where you publish your changes for the future app production, team collaboration, and where the code, actually, gets executed; repository on GitHub.  
-![local_remote](images/Local_remote.png]
+![local_remote](./Images/Local_remote.png]
