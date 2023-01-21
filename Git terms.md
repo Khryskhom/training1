@@ -1,10 +1,6 @@
 # Git terms
 - **Workspace**  
 Workspace is a working environment.
-- **Workspace**  
-Workspace is a working environment.
-- **Workspace**  
-Workspace is a working environment.
 - **Index**  
 Index is an environment, on your PC, that you publish your changes to piecemeal. If you have many changes to make in a few days and don't want to move them to a local or online repository, you move them to index at the end of every workday or whenever you want. 
 - **Local repository**  
