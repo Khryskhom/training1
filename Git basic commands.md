@@ -4,7 +4,7 @@ git clone
 ```
 Clones a repository to your workspace (PC).
 ```bash
-git c
+git clone [link]
 ```
 Changes or creates, if used with parameter -b, a new branch.
 ```bash
