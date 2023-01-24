@@ -4,13 +4,13 @@ git clone
 ```
 Clones a repository to your workspace (PC).
 ```bash
-git clone
+git branch
 ```
 Changes or creates, if used with parameter -b, a new branch.
 ```bash
 git fetch
 ```
-Pulls the project from online repository to Local repository. Used when you or other collaborator made new changes, that are not yet on your local environment (has to be used with pull). 
+Pulls the project from online repository to local repository. Used when you or other collaborator made new changes, that are not yet on your local environment (has to be used with pull). 
 ```bash
 git pull
 ```
