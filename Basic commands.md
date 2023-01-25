@@ -28,5 +28,8 @@ Pushes your changes to local repository. Is usually used with parameter -a -m "<
 git push
 ```
 Pushes your changes to online repository. This and two previous commands are usually being run to move your changes on the local environment to online repository.
-
+```bash
+git push
+```
+Pushes your changes to online repository. This and two previous commands are usually being run to move your changes on the local environment to online repository.
 
