@@ -2,7 +2,7 @@
 ```bash
 git clone
 ```
-Clones a repository to your workspace (PC).
+Clones a repository to your workspace (PC) or your local machine.
 ```bash
 git branch
 ```
